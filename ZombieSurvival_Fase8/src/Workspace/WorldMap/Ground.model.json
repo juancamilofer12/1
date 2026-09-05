@@ -1,0 +1,25 @@
+{
+  "Name": "Ground",
+  "ClassName": "Part",
+  "Properties": {
+    "Size": [
+      1100,
+      4,
+      1100
+    ],
+    "Position": [
+      0,
+      -2,
+      -60
+    ],
+    "Anchored": true,
+    "CanCollide": true,
+    "Color3": [
+      0.29,
+      0.33,
+      0.21
+    ],
+    "Material": "Grass",
+    "Transparency": 0.0
+  }
+}

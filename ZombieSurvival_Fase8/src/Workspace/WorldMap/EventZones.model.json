@@ -1,0 +1,92 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "Event_OleadaNocturna",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          170,
+          0.5,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "TipoEvento": "OleadaNocturna",
+        "Ring": 1
+      }
+    },
+    {
+      "Name": "Event_NieblaPantano",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          300,
+          0.5,
+          330
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "TipoEvento": "NieblaPantano",
+        "Ring": 3
+      }
+    },
+    {
+      "Name": "Event_ConvoySuministros",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          90,
+          0.5,
+          140
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "TipoEvento": "ConvoySuministros",
+        "Ring": 2
+      }
+    }
+  ]
+}

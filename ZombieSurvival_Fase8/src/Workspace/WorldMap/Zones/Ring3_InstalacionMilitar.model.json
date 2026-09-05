@@ -1,0 +1,165 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "ZoneGround",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          200,
+          0.2,
+          200
+        ],
+        "Position": [
+          0,
+          0.1,
+          -430
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.3,
+          0.3,
+          0.26
+        ],
+        "Material": "Grass",
+        "Transparency": 0.85
+      }
+    },
+    {
+      "Name": "Checkpoint_Garita",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          14,
+          6,
+          2
+        ],
+        "Position": [
+          0,
+          3,
+          -360
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.4,
+          0.4,
+          0.38
+        ],
+        "Material": "Concrete",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Valla_Caida_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          20,
+          4,
+          0.5
+        ],
+        "Position": [
+          -30,
+          2,
+          -360
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.35,
+          0.35,
+          0.35
+        ],
+        "Material": "Metal",
+        "Transparency": 0.0,
+        "Orientation": [
+          0,
+          0,
+          60
+        ]
+      }
+    },
+    {
+      "Name": "Valla_Caida_2",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          20,
+          4,
+          0.5
+        ],
+        "Position": [
+          30,
+          2,
+          -360
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.35,
+          0.35,
+          0.35
+        ],
+        "Material": "Metal",
+        "Transparency": 0.0,
+        "Orientation": [
+          0,
+          0,
+          -60
+        ]
+      }
+    },
+    {
+      "Name": "Vehiculo_Militar_Quemado",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          9,
+          3.5,
+          4
+        ],
+        "Position": [
+          -20,
+          1.75,
+          -400
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.15,
+          0.15,
+          0.14
+        ],
+        "Material": "CorrodedMetal",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Edificio_Principal",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          40,
+          16,
+          30
+        ],
+        "Position": [
+          0,
+          8,
+          -450
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.34,
+          0.34,
+          0.32
+        ],
+        "Material": "Concrete",
+        "Transparency": 0.0
+      }
+    }
+  ]
+}

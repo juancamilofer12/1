@@ -1,0 +1,208 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "Build_CampamentoCentral",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          0,
+          0.3,
+          0
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "AptoParaConstruir": true,
+        "Motivo": "TerrenoLlano_VisibilidadTotal"
+      }
+    },
+    {
+      "Name": "Build_ClaroBosqueCercano",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -110,
+          0.3,
+          -90
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "AptoParaConstruir": true,
+        "Motivo": "TerrenoPlano_CercaDeRecursos"
+      }
+    },
+    {
+      "Name": "Build_PlataformaAserradero",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          20,
+          10,
+          255
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "AptoParaConstruir": true,
+        "Motivo": "BaseAvanzada_Vertical"
+      }
+    },
+    {
+      "Name": "Build_Pantano",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          300,
+          0.5,
+          330
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "AptoParaConstruir": false,
+        "Motivo": "TerrenoInestable_MalaVisibilidad"
+      }
+    },
+    {
+      "Name": "Build_Cantera",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -350,
+          0.1,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "AptoParaConstruir": false,
+        "Motivo": "SinRutasDeEscape"
+      }
+    },
+    {
+      "Name": "Build_PuenteYCarretera",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          90,
+          0.5,
+          140
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "AptoParaConstruir": false,
+        "Motivo": "ExposicionTotal_ZonaDePaso"
+      }
+    },
+    {
+      "Name": "Build_BosqueProfundo",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          0,
+          0.3,
+          -280
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "AptoParaConstruir": false,
+        "Motivo": "DensidadDeArboles_PocoEspacio"
+      }
+    }
+  ]
+}

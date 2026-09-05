@@ -1,0 +1,63 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "Boss_Cantera",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -350,
+          0.1,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Boss": "BossCantera",
+        "Ring": 3
+      }
+    },
+    {
+      "Name": "Boss_InstalacionMilitar",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          0,
+          8,
+          -450
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Boss": "BossPrincipal",
+        "Ring": 3
+      }
+    }
+  ]
+}

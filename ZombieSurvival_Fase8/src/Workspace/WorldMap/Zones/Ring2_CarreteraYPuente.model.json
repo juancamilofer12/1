@@ -1,0 +1,200 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "ZoneGround",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          300,
+          0.2,
+          260
+        ],
+        "Position": [
+          90,
+          0.3,
+          140
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.3,
+          0.3,
+          0.28
+        ],
+        "Material": "Grass",
+        "Transparency": 0.9
+      }
+    },
+    {
+      "Name": "Carretera",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          220,
+          0.3,
+          18
+        ],
+        "Position": [
+          90,
+          0.4,
+          140
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.22,
+          0.22,
+          0.22
+        ],
+        "Material": "Asphalt",
+        "Transparency": 0.0,
+        "Orientation": [
+          0,
+          -25,
+          0
+        ]
+      }
+    },
+    {
+      "Name": "Rio",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          300,
+          0.5,
+          26
+        ],
+        "Position": [
+          90,
+          -1,
+          140
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.16,
+          0.3,
+          0.42
+        ],
+        "Material": "Water",
+        "Transparency": 0.3,
+        "Orientation": [
+          0,
+          65,
+          0
+        ]
+      }
+    },
+    {
+      "Name": "Puente_Segmento_A",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          20,
+          1,
+          18
+        ],
+        "Position": [
+          65,
+          0.5,
+          118
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.45,
+          0.45,
+          0.45
+        ],
+        "Material": "Concrete",
+        "Transparency": 0.0,
+        "Orientation": [
+          0,
+          -25,
+          0
+        ]
+      }
+    },
+    {
+      "Name": "Puente_Segmento_B",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          20,
+          1,
+          18
+        ],
+        "Position": [
+          115,
+          0.5,
+          162
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.45,
+          0.45,
+          0.45
+        ],
+        "Material": "Concrete",
+        "Transparency": 0.0,
+        "Orientation": [
+          0,
+          -25,
+          0
+        ]
+      }
+    },
+    {
+      "Name": "VehiculoCarretera_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          7,
+          3,
+          3
+        ],
+        "Position": [
+          40,
+          1.5,
+          105
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.45,
+          0.18,
+          0.13
+        ],
+        "Material": "Metal",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "VehiculoCarretera_2",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          7,
+          3,
+          3
+        ],
+        "Position": [
+          140,
+          1.5,
+          175
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.42,
+          0.2,
+          0.15
+        ],
+        "Material": "Metal",
+        "Transparency": 0.0
+      }
+    }
+  ]
+}

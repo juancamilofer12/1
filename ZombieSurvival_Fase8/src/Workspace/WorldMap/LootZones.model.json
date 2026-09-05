@@ -1,0 +1,285 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "Loot_Pueblo",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          170,
+          0.5,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Rareza": "Common_Uncommon"
+      }
+    },
+    {
+      "Name": "Loot_CabanaDeCaza",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -140,
+          6,
+          -110
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Rareza": "Common_Uncommon"
+      }
+    },
+    {
+      "Name": "Loot_TorreCaida",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          30,
+          1.5,
+          -260
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Rareza": "Rare"
+      }
+    },
+    {
+      "Name": "Loot_VehiculosCarretera",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          90,
+          1.5,
+          140
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Rareza": "Rare"
+      }
+    },
+    {
+      "Name": "Loot_AserraderoBajo",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          20,
+          2,
+          280
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Rareza": "Rare"
+      }
+    },
+    {
+      "Name": "Loot_AserraderoAlto",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          20,
+          10,
+          255
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Rareza": "Epic"
+      }
+    },
+    {
+      "Name": "Loot_Cantera",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -350,
+          0.1,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Rareza": "Epic"
+      }
+    },
+    {
+      "Name": "Loot_PantanoHundido",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          300,
+          0.5,
+          330
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Rareza": "Legendary"
+      }
+    },
+    {
+      "Name": "Loot_AserraderoProfundo",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          10,
+          1,
+          285
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Rareza": "Legendary"
+      }
+    },
+    {
+      "Name": "Loot_InstalacionMilitar",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          0,
+          8,
+          -450
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Rareza": "Mythic"
+      }
+    }
+  ]
+}

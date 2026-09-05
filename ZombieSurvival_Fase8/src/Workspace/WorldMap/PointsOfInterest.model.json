@@ -1,0 +1,365 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "TorreVigilancia",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          0,
+          30,
+          -20
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 0,
+        "Riesgo": "MuyBajo",
+        "Funcion": "Orientacion_Mirador_Defensivo"
+      }
+    },
+    {
+      "Name": "CabanaDeCaza",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -140,
+          6,
+          -110
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 1,
+        "Riesgo": "Bajo",
+        "Funcion": "Loot_Uncommon_RecursoMadera"
+      }
+    },
+    {
+      "Name": "CampamentoSupervivientes",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -80,
+          2,
+          -70
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 1,
+        "Riesgo": "Bajo",
+        "Funcion": "Loot_Narrativo_PistaEventos"
+      }
+    },
+    {
+      "Name": "CallePrincipalPueblo",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          170,
+          0.5,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 1,
+        "Riesgo": "BajoMedio",
+        "Funcion": "Loot_Common_Uncommon_Combate"
+      }
+    },
+    {
+      "Name": "Gasolinera",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          200,
+          3,
+          50
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 1,
+        "Riesgo": "Medio",
+        "Funcion": "Recursos_Combustible_Loot_Uncommon"
+      }
+    },
+    {
+      "Name": "TorreObservacionCaida",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          30,
+          1.5,
+          -260
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 2,
+        "Riesgo": "Medio",
+        "Funcion": "Loot_Rare_MiradorTactico"
+      }
+    },
+    {
+      "Name": "PuenteColapsado",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          90,
+          0.5,
+          140
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 2,
+        "Riesgo": "MedioAlto",
+        "Funcion": "RutaRapida_Expuesta"
+      }
+    },
+    {
+      "Name": "FilaVehiculosCarretera",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          90,
+          1.5,
+          140
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 2,
+        "Riesgo": "Medio",
+        "Funcion": "Loot_Rare_CoberturaTactica"
+      }
+    },
+    {
+      "Name": "Aserradero",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          20,
+          7,
+          280
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 2,
+        "Riesgo": "MedioAlto",
+        "Funcion": "Loot_Epic_CombateVertical"
+      }
+    },
+    {
+      "Name": "PantanoHundido",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          300,
+          0.5,
+          330
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 3,
+        "Riesgo": "Alto",
+        "Funcion": "Loot_Legendary_AmbientacionTerror"
+      }
+    },
+    {
+      "Name": "Cantera",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -350,
+          0.1,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 3,
+        "Riesgo": "Alto",
+        "Funcion": "Recursos_Piedra_PosibleBoss"
+      }
+    },
+    {
+      "Name": "InstalacionMilitarRuinas",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          0,
+          8,
+          -450
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 3,
+        "Riesgo": "MuyAlto",
+        "Funcion": "Loot_Mythic_BossPrincipal_SecretoMayor"
+      }
+    }
+  ]
+}

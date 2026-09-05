@@ -1,0 +1,130 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "ZoneGround",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          160,
+          0.2,
+          160
+        ],
+        "Position": [
+          -110,
+          0.3,
+          -90
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.2,
+          0.35,
+          0.16
+        ],
+        "Material": "Grass",
+        "Transparency": 0.85
+      }
+    },
+    {
+      "Name": "CabanaDeCaza_Base",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          10,
+          6,
+          8
+        ],
+        "Position": [
+          -140,
+          3,
+          -110
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.35,
+          0.24,
+          0.15
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "CabanaDeCaza_Techo",
+      "ClassName": "WedgePart",
+      "Properties": {
+        "Size": [
+          11,
+          4,
+          9
+        ],
+        "Position": [
+          -140,
+          9,
+          -110
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.25,
+          0.16,
+          0.1
+        ],
+        "Material": "WoodPlanks",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "CampamentoSupervivientes_Tienda",
+      "ClassName": "WedgePart",
+      "Properties": {
+        "Size": [
+          6,
+          4,
+          6
+        ],
+        "Position": [
+          -80,
+          2,
+          -70
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.45,
+          0.42,
+          0.3
+        ],
+        "Material": "Fabric",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "CampamentoSupervivientes_Fogata",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          0.5,
+          2
+        ],
+        "Position": [
+          -78,
+          0.5,
+          -65
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.12,
+          0.12,
+          0.12
+        ],
+        "Material": "Slate",
+        "Transparency": 0.0
+      }
+    }
+  ]
+}

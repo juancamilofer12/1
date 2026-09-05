@@ -1,0 +1,353 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "ZombieSpawn_R1_Bosque_A",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -180,
+          0.5,
+          -90
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 1,
+        "Zona": "BosqueCercano"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R1_Bosque_B",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -110,
+          0.5,
+          -160
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 1,
+        "Zona": "BosqueCercano"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R1_Pueblo_A",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          170,
+          0.5,
+          90
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 1,
+        "Zona": "PuebloAbandonado"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R2_BosqueProfundo_A",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -90,
+          0.5,
+          -280
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 2,
+        "Zona": "BosqueProfundo"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R2_BosqueProfundo_B",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          90,
+          0.5,
+          -320
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 2,
+        "Zona": "BosqueProfundo"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R2_Carretera_Este",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          220,
+          0.5,
+          190
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 2,
+        "Zona": "CarreteraYPuente"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R2_Aserradero_A",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          60,
+          0.5,
+          320
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 2,
+        "Zona": "Aserradero"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R3_Pantano_A",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          350,
+          0.5,
+          380
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 3,
+        "Zona": "Pantano"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R3_Pantano_B",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          260,
+          0.5,
+          300
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 3,
+        "Zona": "Pantano"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R3_Cantera_A",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -350,
+          0.5,
+          -40
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 3,
+        "Zona": "Cantera"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R3_Militar_A",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          -40,
+          0.5,
+          -450
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 3,
+        "Zona": "InstalacionMilitar"
+      }
+    },
+    {
+      "Name": "ZombieSpawn_R3_Militar_B",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          2,
+          2
+        ],
+        "Position": [
+          40,
+          0.5,
+          -450
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 1.0,
+        "Color3": [
+          1,
+          1,
+          1
+        ],
+        "Material": "SmoothPlastic"
+      },
+      "Attributes": {
+        "Ring": 3,
+        "Zona": "InstalacionMilitar"
+      }
+    }
+  ]
+}

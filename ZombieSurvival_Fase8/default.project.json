@@ -1,0 +1,37 @@
+{
+	"name": "ZombieSurvival",
+	"tree": {
+		"$className": "DataModel",
+
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"Server": {
+				"$path": "src/ServerScriptService/Server"
+			}
+		},
+
+		"Workspace": {
+			"$className": "Workspace",
+			"WorldMap": {
+				"$path": "src/Workspace/WorldMap"
+			}
+		},
+
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Shared": {
+				"$path": "src/ReplicatedStorage/Shared"
+			}
+		},
+
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"Client": {
+					"$path": "src/StarterPlayer/StarterPlayerScripts/Client"
+				}
+			}
+		}
+	}
+}

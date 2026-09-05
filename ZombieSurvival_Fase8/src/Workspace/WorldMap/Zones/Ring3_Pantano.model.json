@@ -1,0 +1,85 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "ZoneGround",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          220,
+          0.2,
+          220
+        ],
+        "Position": [
+          300,
+          0.1,
+          330
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.22,
+          0.26,
+          0.14
+        ],
+        "Material": "Ground",
+        "Transparency": 0.7
+      }
+    },
+    {
+      "Name": "Agua_Pantano",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          220,
+          0.3,
+          220
+        ],
+        "Position": [
+          300,
+          0.25,
+          330
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.14,
+          0.22,
+          0.16
+        ],
+        "Material": "Water",
+        "Transparency": 0.4
+      }
+    },
+    {
+      "Name": "Asentamiento_Hundido",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          14,
+          6,
+          10
+        ],
+        "Position": [
+          280,
+          1,
+          350
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.28,
+          0.26,
+          0.22
+        ],
+        "Material": "WoodPlanks",
+        "Transparency": 0.0,
+        "Orientation": [
+          15,
+          10,
+          0
+        ]
+      }
+    }
+  ]
+}

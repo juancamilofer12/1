@@ -1,0 +1,205 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "ZoneGround",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          160,
+          0.2,
+          160
+        ],
+        "Position": [
+          170,
+          0.3,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.42,
+          0.38,
+          0.3
+        ],
+        "Material": "Grass",
+        "Transparency": 0.85
+      }
+    },
+    {
+      "Name": "CallePrincipal",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          120,
+          0.3,
+          14
+        ],
+        "Position": [
+          170,
+          0.4,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.25,
+          0.25,
+          0.25
+        ],
+        "Material": "Asphalt",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "TiendaGeneral",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          16,
+          8,
+          12
+        ],
+        "Position": [
+          140,
+          4,
+          50
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.55,
+          0.47,
+          0.35
+        ],
+        "Material": "Concrete",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Gasolinera_Edificio",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          10,
+          6,
+          8
+        ],
+        "Position": [
+          200,
+          3,
+          50
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Material": "Concrete",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Gasolinera_Techo",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          20,
+          1,
+          14
+        ],
+        "Position": [
+          200,
+          7,
+          60
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.65,
+          0.12,
+          0.1
+        ],
+        "Material": "Metal",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "CasaResidencial_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          12,
+          7,
+          10
+        ],
+        "Position": [
+          140,
+          3.5,
+          -10
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.55,
+          0.45,
+          0.32
+        ],
+        "Material": "WoodPlanks",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "CasaResidencial_2",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          12,
+          7,
+          10
+        ],
+        "Position": [
+          200,
+          3.5,
+          -10
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.5,
+          0.42,
+          0.3
+        ],
+        "Material": "WoodPlanks",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "VehiculoAbandonado_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          7,
+          3,
+          3
+        ],
+        "Position": [
+          170,
+          1.5,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.45,
+          0.2,
+          0.15
+        ],
+        "Material": "Metal",
+        "Transparency": 0.0
+      }
+    }
+  ]
+}

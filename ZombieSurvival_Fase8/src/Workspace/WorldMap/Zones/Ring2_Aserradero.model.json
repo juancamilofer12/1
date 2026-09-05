@@ -1,0 +1,155 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "ZoneGround",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          150,
+          0.2,
+          150
+        ],
+        "Position": [
+          20,
+          0.3,
+          270
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.35,
+          0.28,
+          0.18
+        ],
+        "Material": "Grass",
+        "Transparency": 0.85
+      }
+    },
+    {
+      "Name": "Aserradero_Edificio",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          24,
+          14,
+          18
+        ],
+        "Position": [
+          20,
+          7,
+          280
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.4,
+          0.32,
+          0.24
+        ],
+        "Material": "CorrodedMetal",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Plataforma_Elevada",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          16,
+          1,
+          10
+        ],
+        "Position": [
+          20,
+          10,
+          255
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.36,
+          0.25,
+          0.16
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Plataforma_Soporte_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          1,
+          10,
+          1
+        ],
+        "Position": [
+          14,
+          5,
+          250
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.3,
+          0.3,
+          0.3
+        ],
+        "Material": "Metal",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Plataforma_Soporte_2",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          1,
+          10,
+          1
+        ],
+        "Position": [
+          26,
+          5,
+          250
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.3,
+          0.3,
+          0.3
+        ],
+        "Material": "Metal",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Maquinaria_Oxidada",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          6,
+          4,
+          6
+        ],
+        "Position": [
+          45,
+          2,
+          300
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.5,
+          0.28,
+          0.12
+        ],
+        "Material": "CorrodedMetal",
+        "Transparency": 0.0
+      }
+    }
+  ]
+}

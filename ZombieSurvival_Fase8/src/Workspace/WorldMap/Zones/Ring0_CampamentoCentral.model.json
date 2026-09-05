@@ -1,0 +1,130 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "ZoneGround",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          110,
+          0.2,
+          110
+        ],
+        "Position": [
+          0,
+          0.3,
+          0
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.55,
+          0.75,
+          0.45
+        ],
+        "Material": "Grass",
+        "Transparency": 0.85
+      }
+    },
+    {
+      "Name": "WatchTower_Pole",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          30,
+          2
+        ],
+        "Position": [
+          0,
+          15,
+          -20
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.36,
+          0.25,
+          0.16
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "WatchTower_Platform",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Position": [
+          0,
+          30,
+          -20
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.36,
+          0.25,
+          0.16
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "GuardShack",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          8,
+          6,
+          6
+        ],
+        "Position": [
+          20,
+          3,
+          10
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.45,
+          0.42,
+          0.38
+        ],
+        "Material": "WoodPlanks",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Cobertizo",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          6,
+          5,
+          5
+        ],
+        "Position": [
+          -18,
+          2.5,
+          15
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.4,
+          0.3,
+          0.2
+        ],
+        "Material": "WoodPlanks",
+        "Transparency": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "PlayerSpawn_01",
+      "ClassName": "SpawnLocation",
+      "Properties": {
+        "Size": [
+          6,
+          1,
+          6
+        ],
+        "Position": [
+          30.0,
+          0.8,
+          0.0
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.68,
+          0.87,
+          0.68
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0,
+        "Neutral": true,
+        "Enabled": true,
+        "Duration": 0
+      }
+    },
+    {
+      "Name": "PlayerSpawn_02",
+      "ClassName": "SpawnLocation",
+      "Properties": {
+        "Size": [
+          6,
+          1,
+          6
+        ],
+        "Position": [
+          15.0,
+          0.8,
+          25.98
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.68,
+          0.87,
+          0.68
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0,
+        "Neutral": true,
+        "Enabled": true,
+        "Duration": 0
+      }
+    },
+    {
+      "Name": "PlayerSpawn_03",
+      "ClassName": "SpawnLocation",
+      "Properties": {
+        "Size": [
+          6,
+          1,
+          6
+        ],
+        "Position": [
+          -15.0,
+          0.8,
+          25.98
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.68,
+          0.87,
+          0.68
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0,
+        "Neutral": true,
+        "Enabled": true,
+        "Duration": 0
+      }
+    },
+    {
+      "Name": "PlayerSpawn_04",
+      "ClassName": "SpawnLocation",
+      "Properties": {
+        "Size": [
+          6,
+          1,
+          6
+        ],
+        "Position": [
+          -30.0,
+          0.8,
+          0.0
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.68,
+          0.87,
+          0.68
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0,
+        "Neutral": true,
+        "Enabled": true,
+        "Duration": 0
+      }
+    },
+    {
+      "Name": "PlayerSpawn_05",
+      "ClassName": "SpawnLocation",
+      "Properties": {
+        "Size": [
+          6,
+          1,
+          6
+        ],
+        "Position": [
+          -15.0,
+          0.8,
+          -25.98
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.68,
+          0.87,
+          0.68
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0,
+        "Neutral": true,
+        "Enabled": true,
+        "Duration": 0
+      }
+    },
+    {
+      "Name": "PlayerSpawn_06",
+      "ClassName": "SpawnLocation",
+      "Properties": {
+        "Size": [
+          6,
+          1,
+          6
+        ],
+        "Position": [
+          15.0,
+          0.8,
+          -25.98
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.68,
+          0.87,
+          0.68
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0,
+        "Neutral": true,
+        "Enabled": true,
+        "Duration": 0
+      }
+    }
+  ]
+}

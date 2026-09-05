@@ -1,0 +1,110 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "ZoneGround",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          200,
+          0.2,
+          200
+        ],
+        "Position": [
+          0,
+          0.3,
+          -280
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.14,
+          0.24,
+          0.12
+        ],
+        "Material": "Grass",
+        "Transparency": 0.85
+      }
+    },
+    {
+      "Name": "TorreObservacion_Caida",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          3,
+          3,
+          26
+        ],
+        "Position": [
+          30,
+          1.5,
+          -260
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.3,
+          0.22,
+          0.15
+        ],
+        "Material": "Wood",
+        "Transparency": 0.0,
+        "Orientation": [
+          0,
+          0,
+          80
+        ]
+      }
+    },
+    {
+      "Name": "Formacion_Rocosa_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          10,
+          8,
+          10
+        ],
+        "Position": [
+          -40,
+          4,
+          -300
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.4,
+          0.4,
+          0.4
+        ],
+        "Material": "Rock",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Formacion_Rocosa_2",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          8,
+          6,
+          8
+        ],
+        "Position": [
+          50,
+          3,
+          -320
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.38,
+          0.38,
+          0.38
+        ],
+        "Material": "Rock",
+        "Transparency": 0.0
+      }
+    }
+  ]
+}

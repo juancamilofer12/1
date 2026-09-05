@@ -1,0 +1,621 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "Tree_BosqueCercano_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          8,
+          2
+        ],
+        "Position": [
+          -95,
+          4,
+          -130
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.18,
+          0.35,
+          0.18
+        ],
+        "Material": "Grass"
+      },
+      "Attributes": {
+        "ResourceType": "Wood"
+      }
+    },
+    {
+      "Name": "Tree_BosqueCercano_2",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          8,
+          2
+        ],
+        "Position": [
+          -165,
+          4,
+          -75
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.18,
+          0.35,
+          0.18
+        ],
+        "Material": "Grass"
+      },
+      "Attributes": {
+        "ResourceType": "Wood"
+      }
+    },
+    {
+      "Name": "Tree_BosqueCercano_3",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          8,
+          2
+        ],
+        "Position": [
+          -60,
+          4,
+          -95
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.18,
+          0.35,
+          0.18
+        ],
+        "Material": "Grass"
+      },
+      "Attributes": {
+        "ResourceType": "Wood"
+      }
+    },
+    {
+      "Name": "Tree_CabanaDeCaza",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          8,
+          2
+        ],
+        "Position": [
+          -150,
+          4,
+          -130
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.18,
+          0.35,
+          0.18
+        ],
+        "Material": "Grass"
+      },
+      "Attributes": {
+        "ResourceType": "Wood"
+      }
+    },
+    {
+      "Name": "Tree_CampamentoSupervivientes",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          8,
+          2
+        ],
+        "Position": [
+          -88,
+          4,
+          -68
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.18,
+          0.35,
+          0.18
+        ],
+        "Material": "Grass"
+      },
+      "Attributes": {
+        "ResourceType": "Wood"
+      }
+    },
+    {
+      "Name": "Tree_BosqueProfundo_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          8,
+          2
+        ],
+        "Position": [
+          -70,
+          4,
+          -240
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.18,
+          0.35,
+          0.18
+        ],
+        "Material": "Grass"
+      },
+      "Attributes": {
+        "ResourceType": "Wood"
+      }
+    },
+    {
+      "Name": "Tree_BosqueProfundo_2",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          8,
+          2
+        ],
+        "Position": [
+          70,
+          4,
+          -250
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.18,
+          0.35,
+          0.18
+        ],
+        "Material": "Grass"
+      },
+      "Attributes": {
+        "ResourceType": "Wood"
+      }
+    },
+    {
+      "Name": "Tree_BosqueProfundo_3",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          8,
+          2
+        ],
+        "Position": [
+          -10,
+          4,
+          -340
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.18,
+          0.35,
+          0.18
+        ],
+        "Material": "Grass"
+      },
+      "Attributes": {
+        "ResourceType": "Wood"
+      }
+    },
+    {
+      "Name": "Rock_Cantera_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          4,
+          3,
+          4
+        ],
+        "Position": [
+          -370,
+          -7,
+          0
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Material": "Rock"
+      },
+      "Attributes": {
+        "ResourceType": "Stone"
+      }
+    },
+    {
+      "Name": "Rock_Cantera_2",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          4,
+          3,
+          4
+        ],
+        "Position": [
+          -330,
+          -7,
+          45
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Material": "Rock"
+      },
+      "Attributes": {
+        "ResourceType": "Stone"
+      }
+    },
+    {
+      "Name": "Rock_Cantera_3",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          4,
+          3,
+          4
+        ],
+        "Position": [
+          -350,
+          -7,
+          -5
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Material": "Rock"
+      },
+      "Attributes": {
+        "ResourceType": "Stone"
+      }
+    },
+    {
+      "Name": "Rock_Aserradero",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          3,
+          2,
+          3
+        ],
+        "Position": [
+          5,
+          2,
+          280
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Material": "Rock"
+      },
+      "Attributes": {
+        "ResourceType": "Stone"
+      }
+    },
+    {
+      "Name": "Rock_BosqueProfundo_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          3,
+          2,
+          3
+        ],
+        "Position": [
+          -40,
+          5,
+          -298
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Material": "Rock"
+      },
+      "Attributes": {
+        "ResourceType": "Stone"
+      }
+    },
+    {
+      "Name": "Rock_BosqueProfundo_2",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          3,
+          2,
+          3
+        ],
+        "Position": [
+          50,
+          4,
+          -318
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Material": "Rock"
+      },
+      "Attributes": {
+        "ResourceType": "Stone"
+      }
+    },
+    {
+      "Name": "Metal_Aserradero",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          1.5,
+          2
+        ],
+        "Position": [
+          35,
+          2,
+          295
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.62,
+          0.63,
+          0.66
+        ],
+        "Material": "Metal"
+      },
+      "Attributes": {
+        "ResourceType": "Metal"
+      }
+    },
+    {
+      "Name": "Metal_VehiculosCarretera_1",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          1.5,
+          2
+        ],
+        "Position": [
+          35,
+          1,
+          100
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.62,
+          0.63,
+          0.66
+        ],
+        "Material": "Metal"
+      },
+      "Attributes": {
+        "ResourceType": "Metal"
+      }
+    },
+    {
+      "Name": "Metal_VehiculosCarretera_2",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          1.5,
+          2
+        ],
+        "Position": [
+          145,
+          1,
+          180
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.62,
+          0.63,
+          0.66
+        ],
+        "Material": "Metal"
+      },
+      "Attributes": {
+        "ResourceType": "Metal"
+      }
+    },
+    {
+      "Name": "Metal_InstalacionMilitar",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          1.5,
+          2
+        ],
+        "Position": [
+          -15,
+          2,
+          -395
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.62,
+          0.63,
+          0.66
+        ],
+        "Material": "Metal"
+      },
+      "Attributes": {
+        "ResourceType": "Metal"
+      }
+    },
+    {
+      "Name": "Scrap_PuebloAbandonado",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          1,
+          3
+        ],
+        "Position": [
+          172,
+          1,
+          25
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.36,
+          0.25,
+          0.16
+        ],
+        "Material": "CorrodedMetal"
+      },
+      "Attributes": {
+        "ResourceType": "Scrap"
+      }
+    },
+    {
+      "Name": "Scrap_Gasolinera",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          1,
+          3
+        ],
+        "Position": [
+          198,
+          3,
+          55
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.36,
+          0.25,
+          0.16
+        ],
+        "Material": "CorrodedMetal"
+      },
+      "Attributes": {
+        "ResourceType": "Scrap"
+      }
+    },
+    {
+      "Name": "Scrap_InstalacionMilitar",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          1,
+          3
+        ],
+        "Position": [
+          -25,
+          1.5,
+          -405
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.36,
+          0.25,
+          0.16
+        ],
+        "Material": "CorrodedMetal"
+      },
+      "Attributes": {
+        "ResourceType": "Scrap"
+      }
+    },
+    {
+      "Name": "Scrap_Checkpoint",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          2,
+          1,
+          3
+        ],
+        "Position": [
+          0,
+          3,
+          -355
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Transparency": 0.0,
+        "Color3": [
+          0.36,
+          0.25,
+          0.16
+        ],
+        "Material": "CorrodedMetal"
+      },
+      "Attributes": {
+        "ResourceType": "Scrap"
+      }
+    }
+  ]
+}

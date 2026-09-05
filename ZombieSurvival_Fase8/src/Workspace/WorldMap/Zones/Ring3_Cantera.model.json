@@ -1,0 +1,155 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "ZoneGround",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          180,
+          0.2,
+          180
+        ],
+        "Position": [
+          -350,
+          0.1,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": false,
+        "Color3": [
+          0.45,
+          0.45,
+          0.42
+        ],
+        "Material": "Grass",
+        "Transparency": 0.85
+      }
+    },
+    {
+      "Name": "Cantera_Fondo",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          90,
+          0.5,
+          90
+        ],
+        "Position": [
+          -350,
+          -8,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.4,
+          0.4,
+          0.38
+        ],
+        "Material": "Rock",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Cantera_Pared_Norte",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          90,
+          16,
+          4
+        ],
+        "Position": [
+          -350,
+          -4,
+          -25
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.42,
+          0.42,
+          0.4
+        ],
+        "Material": "Rock",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Cantera_Pared_Sur",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          90,
+          16,
+          4
+        ],
+        "Position": [
+          -350,
+          -4,
+          65
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.42,
+          0.42,
+          0.4
+        ],
+        "Material": "Rock",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Cantera_Pared_Este",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          4,
+          16,
+          90
+        ],
+        "Position": [
+          -305,
+          -4,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.42,
+          0.42,
+          0.4
+        ],
+        "Material": "Rock",
+        "Transparency": 0.0
+      }
+    },
+    {
+      "Name": "Cantera_Pared_Oeste",
+      "ClassName": "Part",
+      "Properties": {
+        "Size": [
+          4,
+          16,
+          90
+        ],
+        "Position": [
+          -395,
+          -4,
+          20
+        ],
+        "Anchored": true,
+        "CanCollide": true,
+        "Color3": [
+          0.42,
+          0.42,
+          0.4
+        ],
+        "Material": "Rock",
+        "Transparency": 0.0
+      }
+    }
+  ]
+}
